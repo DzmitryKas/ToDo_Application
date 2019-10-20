@@ -1,4 +1,4 @@
-import React from 'rect';
+import React from 'react';
 import PropTypes from 'prop-types';
 
 import './footer.css';
